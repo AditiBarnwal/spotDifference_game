@@ -21,3 +21,4 @@ for this game follow:
       🖨 add menu
       
       😪 final_game_ready
+
